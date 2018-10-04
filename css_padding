@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+<head>
+  <style Type="text/css">
+a:link{color:blue;}
+a:visited{color:green;}
+a:hover{color:white;
+        background-color: blue;
+        text-decoration: underline;}
+a:active{color:red;}
+}
+  </style>
+</head>
+
+<body>
+  <a href="http://google.com">Google<a>
+  <p>Swapnil's Website</p>
+</body>
+</html>
